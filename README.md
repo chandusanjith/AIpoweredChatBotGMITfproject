@@ -4,6 +4,17 @@
 
 # APK : https://drive.google.com/file/d/1GhhBeGZbkAPLMo5tsV7k4HenYO1mJ40f/view?usp=sharing
 
+# Screen Shots
+
+![frontpage](https://github.com/chandusanjith/AIpoweredChatBotGMITfproject/blob/master/Screenshot_2021-01-24-23-08-01-136_com.example.user.aipoweredchatbotgmitfproject.jpg "frontpage")
+
+![frontpage](https://github.com/chandusanjith/AIpoweredChatBotGMITfproject/blob/master/Screenshot_2021-01-24-23-08-24-167_com.example.user.aipoweredchatbotgmitfproject.jpg "frontpage")
+
+![frontpage](https://github.com/chandusanjith/AIpoweredChatBotGMITfproject/blob/master/Screenshot_2021-01-24-23-08-30-459_com.example.user.aipoweredchatbotgmitfproject.jpg "frontpage")
+
+![frontpage](https://github.com/chandusanjith/AIpoweredChatBotGMITfproject/blob/master/Screenshot_2021-01-24-23-08-55-172_com.example.user.aipoweredchatbotgmitfproject.jpg "frontpage")
+
+
 
 ### Author: Chandu Sanjith. T Human-to-Machine Conversation Modeling
 
@@ -240,14 +251,3 @@ I am just a chatbot and I am doing great. Test me often to improve!
 
 ##### [8] D. Ferrucci, E. Brown, J. Chu-Carroll, J. Fan, D. Gondek, A. A. Kalyanpur, A. Lally, J. W. Murdock, E. Nyberg, J. Prager, N. Schlaefer, C. Welty, "Building Watson: An Overview of the DeepQA Project." AI Magazine, Vol. 31, No. 3, 2010, pp. 59-
 79.
-
-
-# Screen Shots
-
-![frontpage](https://github.com/chandusanjith/AIpoweredChatBotGMITfproject/blob/master/Screenshot_2021-01-24-23-08-01-136_com.example.user.aipoweredchatbotgmitfproject.jpg "frontpage")
-
-![frontpage](https://github.com/chandusanjith/AIpoweredChatBotGMITfproject/blob/master/Screenshot_2021-01-24-23-08-24-167_com.example.user.aipoweredchatbotgmitfproject.jpg "frontpage")
-
-![frontpage](https://github.com/chandusanjith/AIpoweredChatBotGMITfproject/blob/master/Screenshot_2021-01-24-23-08-30-459_com.example.user.aipoweredchatbotgmitfproject.jpg "frontpage")
-
-![frontpage](https://github.com/chandusanjith/AIpoweredChatBotGMITfproject/blob/master/Screenshot_2021-01-24-23-08-55-172_com.example.user.aipoweredchatbotgmitfproject.jpg "frontpage")
