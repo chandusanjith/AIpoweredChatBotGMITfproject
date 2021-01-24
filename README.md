@@ -2,7 +2,11 @@
 
 # Published Paper: https://www.ijert.org/research/chatbot-to-replace-work-of-helpdesk-IJERTCONV6IS15092.pdf
 
+# APK : https://drive.google.com/file/d/1GhhBeGZbkAPLMo5tsV7k4HenYO1mJ40f/view?usp=sharing
+
+
 ### Author: Chandu Sanjith. T Human-to-Machine Conversation Modeling
+
 
 #### Abstract
 ##### A chatbot aims to make a conversation between both human and machine. The machine has been embedded knowledge to identify the sentences and making a decision itself as response to answer a question. The response principle is matching the input sentence from user. From input sentence, it will be scored to get the similarity of sentences, the higher score obtained the more similar of reference sentences. The sentence similarity calculation in this paper using bigram which divides input sentence as two letters of input sentence. We mainly use this chat bot to answer the questions that re asked at the helpdesk. The knowledge of chatbot are stored in the database. The chatbot consists of core and interface that is accessing that core in relational database management systems (RDBMS). The database has been employed as knowledge storage and interpreter has been employed as stored programs of function and procedure sets for pattern- matching requirement. The interface is standalone which has been built using programing language of Pascal and Java.
