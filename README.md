@@ -1,5 +1,7 @@
 # Chatbot to Replace Work of Helpdesk
 
+# Published Paper: https://www.ijert.org/research/chatbot-to-replace-work-of-helpdesk-IJERTCONV6IS15092.pdf
+
 ### Author: Chandu Sanjith. T Human-to-Machine Conversation Modeling
 
 #### Abstract
