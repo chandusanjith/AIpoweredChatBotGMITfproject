@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.user.aipoweredchatbotgmitfproject">
+
+
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+    <uses-permission android:name="android.permission.CHANGE_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <uses-permission android:name="android.permission.READ_CALENDAR" />
+
+    <uses-permission android:name="android.permission.WRITE_CALENDAR" />
+    <uses-permission android:name="android.permission.CAMERA"/>
+
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS" />
+
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+
+    <uses-permission android:name="android.permission.BLUETOOTH" />
+    <uses-permission android:name="android.permission.BROADCAST_STICKY" />
+    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
+
+    <application
+        android:name="com.example.user.aipoweredchatbotgmitfproject.AIApplication"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_appicon"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".Splash"
+            android:theme="@style/Theme.AppCompat.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".option"></activity>
+        <activity android:name=".MainActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".option" />
+        </activity>
+
+
+        <activity android:name=".MainActivity55">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".option" />
+        </activity>
+
+        <activity
+            android:name="com.example.user.aipoweredchatbotgmitfproject.AIButtonSampleActivity"
+            android:label="@string/title_activity_aibutton_sample"
+            android:parentActivityName="com.example.user.aipoweredchatbotgmitfproject.MainActivity55">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.user.aipoweredchatbotgmitfproject.MainActivity55" />
+        </activity>
+
+        <activity
+            android:name="com.example.user.aipoweredchatbotgmitfproject.AIServiceSampleActivity"
+            android:label="@string/title_activity_aiservice_sample"
+            android:parentActivityName="com.example.user.aipoweredchatbotgmitfproject.MainActivity55">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.user.aipoweredchatbotgmitfproject.MainActivity55" />
+        </activity>
+        <activity
+            android:name="com.example.user.aipoweredchatbotgmitfproject.AIDialogSampleActivity"
+            android:label="@string/title_activity_aidialog_sample"
+            android:parentActivityName="com.example.user.aipoweredchatbotgmitfproject.MainActivity55">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.user.aipoweredchatbotgmitfproject.MainActivity55" />
+        </activity>
+
+        <activity
+            android:name="com.example.user.aipoweredchatbotgmitfproject.AISettingsActivity"
+            android:label="@string/action_settings"
+            android:parentActivityName="com.example.user.aipoweredchatbotgmitfproject.MainActivity55">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.user.aipoweredchatbotgmitfproject.MainActivity55" />
+        </activity>
+
+        <activity
+            android:name="com.example.user.aipoweredchatbotgmitfproject.AIWidgetActivity"
+            android:label="@string/app_name"
+            android:theme="@style/Base.Theme.AppCompat.Dialog">
+
+        </activity>
+
+        <activity
+            android:name=".AITextSampleActivity"
+            android:label="@string/title_activity_aitext_sample"
+            android:parentActivityName="com.example.user.aipoweredchatbotgmitfproject.MainActivity55">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.user.aipoweredchatbotgmitfproject.MainActivity55" />
+        </activity>
+        <receiver android:name=".AISampleAppWidget" >
+            <intent-filter>
+                <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
+            </intent-filter>
+
+            <meta-data
+                android:name="android.appwidget.provider"
+                android:resource="@xml/ai_app_widget_info" />
+        </receiver>
+        <activity android:name=".MainActivity69">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".option" />
+        </activity>
+    </application>
+
+</manifest>

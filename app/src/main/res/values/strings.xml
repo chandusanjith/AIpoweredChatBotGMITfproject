@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Chatbots GMIT  ISE F-PR0JECT</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="title_activity_aibutton_sample">Interface one</string>
+    <string name="title_activity_aiservice_sample">Interface two</string>
+    <string name="title_activity_aidialog_sample">Interface three</string>
+    <string name="title_activity_aitext_sample">Interface four</string>
+    <string name="service_sample_text">Service </string>
+    <string name="button_sample_text">Button </string>
+    <string name="dialog_sample_text">Dialog </string>
+    <string name="text_sample_text">Text </string>
+    <string name="title_app_widget">Voice command</string>
+    <string name="non_empty_query">Query should not be empty</string>
+    <string name="what_s_on_your_mind">What\'s on your mind?</string>
+
+    <string name="use_bluetooth_headset">Use Bluetooth headset</string>
+
+
+</resources>

@@ -1,0 +1,1 @@
+include ':app', ':java-sdk-4.2.1-jar-with-dependencies', ':library-release'

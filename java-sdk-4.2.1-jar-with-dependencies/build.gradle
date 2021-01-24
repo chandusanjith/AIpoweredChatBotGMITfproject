@@ -1,0 +1,2 @@
+configurations.create("default")
+artifacts.add("default", file('java-sdk-4.2.1-jar-with-dependencies.jar'))

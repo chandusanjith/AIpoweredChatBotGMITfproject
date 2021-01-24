@@ -1,0 +1,5 @@
+url:http://djustice-android.tumblr.com
+name:sanvi email:chandusanjith.t.2610@gmail.com
+gender:female botmaster:chandu,pooj,nivedita,nikithaorganization:Medkumo
+version:0.0.1
+
